@@ -28,3 +28,4 @@ const person = {
       },
     ]
   };
+  JSON.stringify(person)
